@@ -1,2 +1,2 @@
 # Book-Store
-Book management system library
+Book management system for library
